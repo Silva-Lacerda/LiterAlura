@@ -49,34 +49,7 @@ idiomas
 
 número de downloads
 
-📦 Estrutura do Projeto
-literalura
-│
-├── src/main/java/br/com/literalura
-│
-│   ├── LiteraluraApplication.java
-│
-│   ├── principal
-│   │      └── Principal.java
-│
-│   ├── service
-│   │      ├── ConsumoApi.java
-│   │      └── ConverteDados.java
-│
-│   ├── dto
-│   │      ├── DadosLivro.java
-│   │      ├── DadosAutor.java
-│   │      └── ResultadoBusca.java
-│
-│   ├── model
-│   │      ├── Livro.java
-│   │      └── Autor.java
-│
-│   └── repository
-│          ├── LivroRepository.java
-│          └── AutorRepository.java
-│
-└── pom.xml
+
 ⚙️ Configuração do Banco de Dados
 
 Este projeto utiliza PostgreSQL.
